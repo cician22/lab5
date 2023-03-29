@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680077814 source:c:\users\icd\desktop\ale mele\probleme\lab5\lab5 pb1\stive.c
+	"stive.h"
+
+1680076596 c:\users\icd\desktop\ale mele\probleme\lab5\lab5 pb1\stive.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1680077673 source:c:\users\icd\desktop\ale mele\probleme\lab5\lab5 pb1\main.c
+	"stive.h"
+
